@@ -14,6 +14,7 @@ I've been facing a lot of problems with lag inside discord app, Then i have disc
 ## Usage 🤔
 
 Its Simple, Just Read What Inside The Batch File 🤩
+NOTE: For Better Effect, Please Make Sure To Close Discord Before Using The Script 😇
 
 ## License ⚖
 [MIT](https://choosealicense.com/licenses/mit/)
