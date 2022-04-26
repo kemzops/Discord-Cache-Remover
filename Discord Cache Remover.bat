@@ -15,7 +15,7 @@ ECHO.
 ECHO NOTE: PLEASE MAKE SURE THAT YOU ALREADY CLOSE DISCORD BEFORE SELECTING
 ECHO =======================================================================
 ECHO.
-ECHO MADE BY Devlox#1616
+ECHO MADE BY AzizJaber#1616
 ECHO.
 
 CHOICE /C 12345 /M "Enter your choice:"
@@ -43,7 +43,7 @@ ECHO =================================================================
 ECHO NOTE: KEEP IN MIND THAT SOME OF FILES OR FOLDERS CAN'T BE REMOVED
 ECHO =================================================================
 ECHO.
-ECHO MADE BY Devlox#1616
+ECHO MADE BY AzizJaber#1616
 ECHO.
 pause
 GOTO End
@@ -65,7 +65,7 @@ ECHO =================================================================
 ECHO NOTE: KEEP IN MIND THAT SOME OF FILES OR FOLDERS CAN'T BE REMOVED
 ECHO =================================================================
 ECHO.
-ECHO MADE BY Devlox#1616
+ECHO MADE BY AzizJaber#1616
 ECHO.
 ECHO.
 pause
@@ -88,7 +88,7 @@ ECHO =================================================================
 ECHO NOTE: KEEP IN MIND THAT SOME OF FILES OR FOLDERS CAN'T BE REMOVED
 ECHO =================================================================
 ECHO.
-ECHO MADE BY Devlox#1616
+ECHO MADE BY AzizJaber#1616
 ECHO.
 ECHO.
 pause
@@ -102,7 +102,7 @@ ECHO ===========================================================
 ECHO Number 4 Selected (All Discord Cache Including GPU And Code)
 ECHO ===========================================================
 ECHO.
-ECHO MADE BY Devlox#1616
+ECHO MADE BY AzizJaber#1616
 ECHO.
 ECHO.
 pause
@@ -128,7 +128,7 @@ ECHO =================================================================
 ECHO NOTE: KEEP IN MIND THAT SOME OF FILES OR FOLDERS CAN'T BE REMOVED
 ECHO =================================================================
 ECHO.
-ECHO MADE BY Devlox#1616
+ECHO MADE BY AzizJaber#1616
 ECHO.
 ECHO.
 pause
