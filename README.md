@@ -1,3 +1,5 @@
+# ⚠ This project is no longer maintained due the new script [BatchTempMaster](https://github.com/azizmjaber02/batch-temp-master) !
+
 # Discord Cache Remover 📁
 
 NOTE: I MADE THIS PROJECT IN 10 MINUTES FOR MY PERSONAL USE ;)
